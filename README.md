@@ -1,4 +1,4 @@
-# fdb-scrape
+# Football Database Web Scrapper
 Web scrapper that pulls historic scores from footballdb.com
 
 ## Usage
